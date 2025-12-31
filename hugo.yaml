@@ -34,7 +34,17 @@ menu:
       params:
         icon: github
 
+enableGitInfo: true
+
 params:
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+
+  blog:
+    list:
+      displayTags: true
+      displayDate: true
+
   navbar:
     displayTitle: true
     displayLogo: false
