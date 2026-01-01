@@ -2,7 +2,7 @@
 title: My note taking system
 description: Some ideas about the note taking system
 tags:
-  - notes
+  - productivity
 ---
 
 ## Why note taking system important?
