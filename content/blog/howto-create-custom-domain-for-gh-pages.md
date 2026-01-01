@@ -1,5 +1,6 @@
 ---
-title: "How-to: Create custom domain name for static website hosted on GitHub Pages"
+title: "How-to: Custom domain name for GitHub Pages"
+description: The how-to document to config custom domain name for static website hosted on GitHub Pages
 tags:
   - How-to
 ---
