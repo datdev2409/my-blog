@@ -1,5 +1,6 @@
 ---
 title: CKS Study Plan
+description: All information you need to know to prepare for the CKS exam
 tags:
   - CKS
 ---
@@ -28,8 +29,7 @@ CKS: performance based exam test knowledge about Kubernetes and cloud security
 
 ## Materials
 
-https://www.youtube.com/watch?v=d9xfB5qaOfg
-https://killercoda.com/
-Review the `Must Known` section in video https://www.youtube.com/watch?v=_l232KiJHNA
-
-Focus on easy topics: Network Policies & RBAC
+- CKS course from the killercoda co-founder
+  {{< youtube "d9xfB5qaOfg" >}}
+- Review the `Must Known` section in video https://www.youtube.com/watch?v=_l232KiJHNA
+- Focus on easy topics: Network Policies & RBAC
