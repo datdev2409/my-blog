@@ -34,4 +34,4 @@ In Obsidian app, I have 3 folders
 
 - `Journal` all the daily notes will be created in there
 - `Quick` folder contains the fleet notes and literature notes. When I have the new idea or find new information, I will create the new note in quick folder. The fleet and literature notes will be created and link to the daily notes, so I can have the context of the notes.
-- `Zettelkasten` folder contains the permanent note. At the end of the date, I review all the notes in `Quick` folder and write the permanent notes.
+- `Zettelkasten` folder contains the permanent note. At the end of the date, I review all the notes in `Quick` folder and write the permanent notes. All the permanent notes in `Zettelkasten` folder are written on my own word and always for publication. When I want to produce the output (write the blog or make the video), I just read the `Zettelkasten` and use the link feature of Obsidian to read all the related note, combine them and produce the output
